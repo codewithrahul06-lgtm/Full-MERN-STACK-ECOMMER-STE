@@ -1,4 +1,4 @@
-const sendEmail = require("../utils/sendEmail");
+const sendEmail = require("../utils/sendEmail.JS");
 
 // temporary storage (use DB in production)
 const otpStore = new Map();
